@@ -23,6 +23,7 @@ function App() {
         <div style={{marginBottom : 100}}>
           <h1 >God Eagle Paradise</h1>
           <h2>My name is {username}</h2>
+          <h2>I have a second firsname : Bienvenu</h2>
           <h3>I am DevOps and IT Consultant IBM product at NSI</h3>
           <h5>This is my world</h5>
         </div>
